@@ -1,0 +1,1 @@
+Following this [tutorial](https://oloshprogrammer.wordpress.com/2020/06/30/deploy-machine-learning-model-with-backendflask-and-frontendangular-part3/)
